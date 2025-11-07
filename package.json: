@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "build:quick": "vite build",
+    "build": "tsc --noEmit && vite build"
+  }
+}
